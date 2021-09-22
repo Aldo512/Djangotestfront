@@ -38,7 +38,7 @@ export default {
     };
   },
   mounted() {
-    document.title = "My account | Djackets";
+    document.title = "My account | I\'m Fuchsia";
 
     this.getMyOrders();
   },

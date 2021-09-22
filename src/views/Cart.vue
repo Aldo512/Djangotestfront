@@ -53,6 +53,7 @@
         },
         mounted() {
             this.cart = this.$store.state.cart
+            document.title = 'Cart | I\'m Fuchsia'
         },
         methods: {
             removeFromCart(item) {

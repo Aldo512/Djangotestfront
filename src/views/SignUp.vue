@@ -66,7 +66,7 @@
             }
         },
         mounted() {
-            document.title = 'Sign Up | Djackets'
+            document.title = 'Sign Up | I\'m Fuchsia'
         },
         methods: {
             submitForm() {

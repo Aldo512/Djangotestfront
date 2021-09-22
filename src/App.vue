@@ -1,8 +1,8 @@
 <template>
   <div id="wrapper">
-    <nav class="navbar is-dark">
+    <nav class="navbar">
       <div class="navbar-brand">
-        <router-link to ="/" class="navbar-item"><strong>Djackets</strong></router-link>
+        <router-link to ="/" class="navbar-item"><strong>I'm Fuchsia</strong></router-link>
 
         <a aria-label="menu" aria-expanded="false" data-target="navbar-menu" class="navbar-burger" @click="showMobileMenu = !showMobileMenu">
           <span aria-hidden="true"></span>

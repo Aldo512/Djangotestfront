@@ -135,7 +135,7 @@ export default {
     };
   },
   mounted() {
-    document.title = "Checkout | Djackets";
+    document.title = "Checkout | I'm Fuchsia";
 
     this.cart = this.$store.state.cart;
 

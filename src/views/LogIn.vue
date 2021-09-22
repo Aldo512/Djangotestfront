@@ -58,7 +58,7 @@
             }
         },
         mounted() {
-            document.title = 'Log In | Djackets'
+            document.title = 'Log In | I\'m Fuchsia'
         },
         methods: {
             async submitForm() {

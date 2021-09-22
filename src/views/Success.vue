@@ -21,7 +21,7 @@ export default {
         }
     },
     mounted() {
-        document.title = 'Success | Djackets'
+        document.title = 'Success | I\'m Fuchsia'
     }
 }
 </script>

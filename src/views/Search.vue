@@ -26,7 +26,7 @@
             }
         },
         mounted() {
-            document.title = 'Search | Djackets'
+            document.title = 'Search | I\'m Fuchsia'
 
             let uri = window.location.search.substring(1)
             let params = new URLSearchParams(uri)
